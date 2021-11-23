@@ -83,7 +83,9 @@
         "GENRE": "Genre",
         "EDIT": "Edit",
         "GRID": "Grid",
-        "REMOVE": "Remove"
+        "REMOVE": "Remove",
+        "MANIFEST_UI_ACCESS": "Manifest UI Access",
+        "MANIFEST_UI_ACCESS_DESCRIPTION": "This UI requires a Volumio premium plan. Press OK to login or register to myVolumio. Press cancel to exit this UI."
     },
     "BROWSER": {
         "PLAY": "Play",
